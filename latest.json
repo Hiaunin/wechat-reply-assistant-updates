@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.3.0",
-  "notes": "0.3.0：Wave 9 多账号（W1–W3）与工作台消息本机删除/置顶；65 通道 / 930 测试。",
-  "publishedAt": "2026-11-07T14:45:00+08:00"
+  "version": "0.4.0",
+  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.4.0",
+  "notes": "0.4.0：设置页检查更新（阶段 1）——设置 → 关于可检查新版本并打开下载页，不自动下载/安装；67 通道 / 945 测试。",
+  "publishedAt": "2026-11-07T15:10:00+08:00"
 }
