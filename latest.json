@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.5.0",
-  "notes": "0.5.0：Wave 11 鲸群借鉴 F1–F8（106 通道 / 1199 测试）；macOS 仅 arm64。",
-  "publishedAt": "2026-11-09T12:40:00+08:00"
+  "version": "0.7.0",
+  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.7.0",
+  "notes": "0.7.0：引擎内嵌化与账号中心（121 通道 / 1433 测试）；macOS 仅 arm64 dmg+zip（未签名，右键打开）；Windows NSIS 测试包待 U6。",
+  "publishedAt": "2026-11-09T18:25:00+08:00"
 }
