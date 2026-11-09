@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.4.0",
-  "notes": "0.4.0：设置页检查更新（阶段 1）——设置 → 关于可检查新版本并打开下载页，不自动下载/安装；67 通道 / 945 测试。",
-  "publishedAt": "2026-11-07T15:10:00+08:00"
+  "version": "0.5.0",
+  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.5.0",
+  "notes": "0.5.0：Wave 11 鲸群借鉴 F1–F8（106 通道 / 1199 测试）；macOS 仅 arm64。",
+  "publishedAt": "2026-11-09T12:40:00+08:00"
 }
