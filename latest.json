@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/Hiaunin/wechat-reply-assistant/releases/tag/v0.8.0",
-  "notes": "0.8.0：数据中心 + 账号后台独立窗口/多标签 + 发布中心 v2（163 通道 / 1834 测试）；macOS 仅 arm64 dmg+zip（未签名，右键打开）。",
-  "publishedAt": "2026-11-09T21:47:06+08:00"
+  "version": "0.9.0",
+  "url": "https://github.com/Hiaunin/wechat-reply-assistant-updates/releases/tag/v0.9.0",
+  "notes": "0.9.0：账号生命周期重构（登录/登出/删除，移除归档；迁移 0017）+ 引擎启动自动恢复 + 数据中心修复；162 通道 / 1867 测试；macOS 仅 arm64 dmg+zip（未签名，首次启动需右键打开）。",
+  "publishedAt": "2026-11-10T00:18:00+08:00"
 }
